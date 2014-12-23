@@ -3,3 +3,11 @@ public void static main(String args[]){
 int shit = 0;
 String you = "me";
 
+String Irin, Morrice;
+
+public void letsEat(){
+
+eat();
+
+}
+
