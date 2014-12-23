@@ -5,9 +5,5 @@ String you = "me";
 
 String Irin, Morrice;
 
-public void letsEat(){
 
-eat();
-
-}
 
